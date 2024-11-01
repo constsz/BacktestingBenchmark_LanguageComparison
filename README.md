@@ -1,8 +1,13 @@
 # Backtesting Benchmark - Language Comparison
 Comparing performance of languages in over-simplified Backtesting scenario.
 
-**Languages**: C#, Go, Node.js, Python numba, Rust
-
+**Languages**: 
+- C#
+- Go
+- Node.js
+- Python numba
+- Rust
+</br></br></br>
 # Results:
 </br></br>
 ## Number of iterations: 24_000_000
