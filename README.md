@@ -1,2 +1,64 @@
-# BacktestingBenchmark_LanguageComparison
-Comparing performance of fake Backtesting script on the following languages: C#, Go, Node.js, Python numba, Rust
+# Backtesting Benchmark - Language Comparison
+Comparing performance of languages in over-simplified Backtesting scenario.
+
+**Languages**: C#, Go, Node.js, Python numba, Rust
+
+# Results:
+
+## Number of iterations: 24_000_000
+
+
+#### Rust:
+Elapsed Time: 4.850 s
+
+#### Golang:
+Elapsed Time: 5.440 s
+Peak Memory Usage: 754 MB
+
+#### C# .NET8:
+Elapsed Time: 5.660 s
+Peak Memory Usage: 755 MB
+
+#### C# .NET8 AOT:
+Elapsed Time: 5.660 s
+Peak Memory Usage: 751 MB
+
+#### C# .NET Framework 4.8:
+Elapsed Time: 5.958 s
+Peak Memory Usage: 745 MB
+
+#### Python Numba: 
+Elapsed Time: 9.730 s
+Peak Memory Usage: 753.47 MB
+
+#### Node.js:
+Elapsed Time: 18.400 s
+Peak Memory Usage: 2639.49 MB
+
+
+
+## Number of iterations: 256_000_000
+
+#### Rust:
+Elapsed Time: 49.700 s
+
+#### Golang:
+Elapsed Time: 57.497 s
+Peak Memory Usage: 7954 MB
+
+#### C# .NET8:
+Elapsed Time: 60.090 s
+Peak Memory Usage: 7835 MB
+
+#### C# .NET8 AOT:
+Elapsed Time: 60.250 s
+Peak Memory Usage: 7831 MB
+
+#### Python Numba:
+Elapsed Time: 64.83 s
+Peak Memory Usage: 7833.55 MB
+
+#### Node:
+Crashed. For 128Mil crashed as well.
+
+
