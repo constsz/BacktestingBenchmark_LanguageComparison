@@ -9,7 +9,7 @@ struct DataBox {
 
 fn main() {
     let start = Instant::now();
-    run(12, 3);
+    run(256000000, 250);
     let duration = start.elapsed();
 
     // Rust doesn't have a built-in way to measure peak memory usage,
