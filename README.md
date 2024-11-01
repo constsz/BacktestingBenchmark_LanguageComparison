@@ -4,13 +4,14 @@ Comparing performance of languages in over-simplified Backtesting scenario.
 **Languages**: 
 | Language             | Version |
 |----------------------|---------|
-| C# | .NET 8 |
+| C#  | .NET 8 |
 | Go | 1.21.6 |
 | Node.js | v22.10.0 |
 | Python numba | 3.11.8 |
 | Rust | 1.82.0 |
-</br></br></br>
 
+
+</br></br>
 
 # Results:
 </br></br>
