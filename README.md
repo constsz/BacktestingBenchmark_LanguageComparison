@@ -12,6 +12,15 @@ Comparing performance of languages in over-simplified Backtesting scenario.
 </br></br>
 ## Number of iterations: 24_000_000
 
+| Language             | Elapsed Time | Peak Memory Usage |
+|----------------------|--------------|-------------------|
+| Golang               | 5.440 s      | 754 MB            |
+| C# .NET8             | 5.660 s      | 755 MB            |
+| C# .NET8 AOT         | 5.660 s      | 751 MB            |
+| C# .NET Framework 4.8| 5.958 s      | 745 MB            |
+| Python Numba         | 9.730 s      | 753.47 MB         |
+| Node.js              | 18.400 s     | 2639.49 MB        |
+
 
 #### Rust:
 Elapsed Time: 4.850 s</br>
