@@ -1,0 +1,7 @@
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\bin\Release\BacktestingSpeedTestFramework48.exe.config
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\bin\Release\BacktestingSpeedTestFramework48.exe
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\bin\Release\BacktestingSpeedTestFramework48.pdb
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\obj\Release\BacktestingSpeedTestFramework48.csproj.AssemblyReference.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\obj\Release\BacktestingSpeedTestFramework48.csproj.CoreCompileInputs.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\obj\Release\BacktestingSpeedTestFramework48.exe
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTestFramework48\obj\Release\BacktestingSpeedTestFramework48.pdb

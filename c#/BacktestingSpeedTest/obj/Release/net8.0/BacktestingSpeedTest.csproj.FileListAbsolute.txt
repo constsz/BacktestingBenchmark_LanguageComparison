@@ -1,0 +1,14 @@
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\bin\Release\net8.0\BacktestingSpeedTest.exe
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\bin\Release\net8.0\BacktestingSpeedTest.deps.json
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\bin\Release\net8.0\BacktestingSpeedTest.runtimeconfig.json
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\bin\Release\net8.0\BacktestingSpeedTest.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\bin\Release\net8.0\BacktestingSpeedTest.pdb
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.AssemblyInfoInputs.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.AssemblyInfo.cs
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.csproj.CoreCompileInputs.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\refint\BacktestingSpeedTest.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.pdb
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\BacktestingSpeedTest.genruntimeconfig.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest\obj\Release\net8.0\ref\BacktestingSpeedTest.dll

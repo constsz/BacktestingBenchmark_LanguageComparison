@@ -1,0 +1,14 @@
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\bin\Release\net8.0\BacktestingSpeedTest_noAOT.exe
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\bin\Release\net8.0\BacktestingSpeedTest_noAOT.deps.json
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\bin\Release\net8.0\BacktestingSpeedTest_noAOT.runtimeconfig.json
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\bin\Release\net8.0\BacktestingSpeedTest_noAOT.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\bin\Release\net8.0\BacktestingSpeedTest_noAOT.pdb
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.GeneratedMSBuildEditorConfig.editorconfig
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.AssemblyInfoInputs.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.AssemblyInfo.cs
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.csproj.CoreCompileInputs.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\refint\BacktestingSpeedTest_noAOT.dll
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.pdb
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\BacktestingSpeedTest_noAOT.genruntimeconfig.cache
+D:\quant\projects\dev Node\BacktestingSpeedTest\c#\BacktestingSpeedTest_noAOT\obj\Release\net8.0\ref\BacktestingSpeedTest_noAOT.dll
